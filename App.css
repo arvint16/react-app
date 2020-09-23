@@ -1,0 +1,63 @@
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: #F9F9F9;
+}
+
+table thead {
+  background: #00000026;
+}
+
+.table td, .table th {
+  padding: 1.75rem;
+  vertical-align: middle;
+}
+table.table.table-bordered {
+  background: white !important;
+  margin-left: 0px;
+}
+
+.submitBtn{
+  margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+body {
+  background: #eee !important;
+}
+.wrapper {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.form-signin {
+  max-width: 380px;
+  padding: 15px 35px 45px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.form-signin-heading {
+  display: flex;
+  justify-content: center;
+}
+
+.input-field{
+  display: flex;
+  flex-direction: column;
+}
+
+.form-signin .form-control {
+  margin-bottom: 10px;
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+}
+
+
+
+
+
+
+
+
